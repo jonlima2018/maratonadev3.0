@@ -7,5 +7,5 @@
 </h2>
 
 <p align=center>
-  <img src=".github/Doe.png" />  
+  <img src=".github/Doe.PNG" />  
 </p>
